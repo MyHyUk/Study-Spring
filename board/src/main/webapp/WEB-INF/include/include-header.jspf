@@ -1,0 +1,37 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %> 
+<%--  <%@ taglib prefix="ui" uri="http://egovframework.gov/ctl/ui" %> --%>
+
+
+<!-- Bootstrap Core CSS -->
+<link href="<c:url value="/resources/vendor/bootstrap/css/bootstrap.min.css" />" rel="stylesheet">
+
+<!-- MetisMenu CSS -->
+<link href="<c:url value="/resources/vendor/metisMenu/metisMenu.min.css" />" rel="stylesheet">
+
+<!-- DataTables CSS -->
+<link href="<c:url value="/resources/vendor/datatables-plugins/dataTables.bootstrap.css" />" rel="stylesheet">
+
+<!-- DataTables Responsive CSS -->
+<link href="<c:url value="/resources/vendor/datatables-responsive/dataTables.responsive.css" />" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="<c:url value="/resources/css/sb-admin-2.css" />" rel="stylesheet">
+
+<!-- Custom Fonts -->
+<link href="<c:url value="/resources/vendor/font-awesome/css/font-awesome.min.css" />" rel="stylesheet"> 
+
+
+
+
+
+<!-- SCRIPTS -->
+
+<!-- JQuery -->
+<script src="<c:url value="/resources/js/jquery-3.1.1.min.js" />" rel="text/javascript"></script>
+
+<!-- Custom -->
+<script src="<c:url value='/resources/js/common.js'/>" charset="utf-8"></script>
+
